@@ -8,7 +8,7 @@
 
 .cont {
     display: flex;
-    border: 5px solid white ;
+    border: 5px solid white;
     flex-wrap: wrap;
     flex-direction: row;
     align-items: stretch;
@@ -25,65 +25,73 @@
 
 .g2 {
     width: 937px;
-    height: 196px;    
+    height: 196px;
     padding: 50px;
     border: 5px solid white;
-     background: black;
+    background: black;
 }
 
 .g3 {
-     width: 937px;
-    height: 196px;    
+    width: 937px;
+    height: 196px;
     padding: 50px;
-    border: 5px solid white;  
-     background: black;
+    border: 5px solid white;
+    background: black;
 }
+
 .g4 {
-        width: 468px;
+    width: 468px;
     height: 232px;
     padding: 50px;
     border: 5px solid white;
-     background: black;
+    background: black;
 }
+
 .g5 {
-        width: 468px;
+    width: 468px;
     height: 232px;
     padding: 50px;
     border: 5px solid white;
-     background: black;
+    background: black;
 }
+
 .g6 {
-        width: 468px;
+    width: 468px;
     height: 232px;
     padding: 50px;
     border: 5px solid white;
-     background: black;
+    background: black;
 }
+
 .g7 {
-        width: 468px;
+    width: 468px;
     height: 232px;
     padding: 50px;
     border: 5px solid white;
-     background: black;
+    background: black;
 }
+
 .g8 {
     width: 33.33%;
     height: 25%;
     border: 5px solid white;
-     background: black;
+    background: black;
 }
+
 .g9 {
-        width: 33.33%;
+    width: 33.33%;
     height: 25%;
     border: 5px solid white;
-     background: black;
+    background: black;
 }
 
-.g10{
-        width: 33.33%;
+.g10 {
+    width: 33.33%;
     height: 25%;
     border: 5px solid white;
-     background: black;
+    background: black;
 }
 
-@media screen and (max-width:480px){}
+@media screen and (max-width:480px) {}
+
+@media screen and (max-width:1024px) {}
