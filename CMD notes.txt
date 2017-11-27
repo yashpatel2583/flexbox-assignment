@@ -1,0 +1,49 @@
+What is command prompt
+You have to type everything.
+not pretty
+Why run?
+To talk to other servers 
+git
+node.js
+ruby
+Sass/Scss
+how to use it?
+c: = navigate to this (c) drive lerrer
+cd = change directory
+cd .. = go back one directory
+cd \ = go to root directory
+dir = list contents of directory(folder)
+dir /ad = limit list to only directories
+/w = column view
+/p = pause after each screen
+how do i use this?
+md name = make specified directory(folder)
+rd name = remove specified empty directory
+del main.css = delete specified file.
+
+
+
+Outcomes:
+Remote Repository is a copy of our project that is stored "in the cloud".
+It is where we backup our work and share it with others.
+Git push tells git to upload all your changes to the server. It does not need to be done after every commit, because it will upload all commits since the last push.
+
+Branches are exactly what they sound like, smaller bits exrending from a branch of tree.
+Branch allowes us to work on code fixes and features without breaking what we already have (presumably) working.
+fixes and new features should always
+
+The master branch is the "trunk" of your code tree and should only contain clean code ready for deployment (use on the web)
+git branch <name> tells git to maintain a new copy of our code with the given name.
+
+git checkout <branch> tells git to switch our working folder to the branch name specified.
+
+checkout master branch
+look at file
+merge the file git merge master
+
+What is the merge conflict
+A merge conflict happens when a file has changed in both of the branches you are trying to combine and git cant automagically determine what you 
+
+
+For todays topic i find some preety cool stuff but I was a liitle confused on how it works but as time flies i will learn and on a scale of 1-4, I think I am somewhere between 2-3. I have no questions. The best part about my thanksgiving berak was I had free time to actually do stuff and be with my family
+
